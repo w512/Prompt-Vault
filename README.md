@@ -12,7 +12,7 @@ The following table summarizes the coding tasks available in this repository:
 | [Easy/ToDo_List.md](./Easy/ToDo_List.md) | Multi-step tutorial for building a persistent task manager from scratch. | 🟢 Easy |
 | [Medium/Sorting_Visualizer.md](./Medium/Sorting_Visualization.md) | Real-time visualization of 6 sorting algorithms with stats and smooth animations. | 🟡 Medium |
 | [Hard/Kanban_Board.md](./Hard/Kanban_Board.md) | Full-featured Kanban board with native Drag & Drop, filtering, and persistence. | 🔴 Hard |
-| [Hard/Kanban_Board.md](./Hard/Markdown_Editor_Desktop.md) | Desktop Markdown editor built with Tauri 2, featuring native file system access. | 🔴 Hard |
+| [Hard/Markdown_Editor_Desktop.md](./Hard/Markdown_Editor_Desktop.md) | Desktop Markdown editor built with Tauri 2, featuring native file system access. | 🔴 Hard |
 
 ## How to Use
 
