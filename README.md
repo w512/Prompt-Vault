@@ -13,6 +13,7 @@ The following table summarizes the coding tasks available in this repository:
 | [Medium/Sorting_Visualizer.md](./Medium/Sorting_Visualization.md) | Real-time visualization of 6 sorting algorithms with stats and smooth animations. | 🟡 Medium |
 | [Hard/Kanban_Board.md](./Hard/Kanban_Board.md) | Full-featured Kanban board with native Drag & Drop, filtering, and persistence. | 🔴 Hard |
 | [Hard/Markdown_Editor_Desktop.md](./Hard/Markdown_Editor_Desktop.md) | Desktop Markdown editor built with Tauri 2, featuring native file system access. | 🔴 Hard |
+| [Advanced/LLM_Speedometer.md](./Advanced/LLM_Speedometer.md) | Local LLM performance benchmarking tool using Tauri and Vue.js with real-time charting. | 🟣 Advanced |
 
 ## How to Use
 
