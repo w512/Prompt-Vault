@@ -14,6 +14,7 @@ The following table summarizes the coding tasks available in this repository:
 | [Hard/Kanban_Board.md](./Hard/Kanban_Board.md) | Full-featured Kanban board with native Drag & Drop, filtering, and persistence. | 🔴 Hard |
 | [Hard/Markdown_Editor_Desktop.md](./Hard/Markdown_Editor_Desktop.md) | Desktop Markdown editor built with Tauri 2, featuring native file system access. | 🔴 Hard |
 | [Advanced/LLM_Speedometer.md](./Advanced/LLM_Speedometer.md) | Local LLM performance benchmarking tool using Tauri and Vue.js with real-time charting. | 🟣 Advanced |
+| [Advanced/Feed_Aggregator.md](./Advanced/Feed_Aggregator.md) | Full-stack Nim RSS aggregator with a background crawler and web interface. | 🟣 Advanced |
 
 ## How to Use
 
