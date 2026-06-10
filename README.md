@@ -15,6 +15,7 @@ The following table summarizes the coding tasks available in this repository:
 | [Hard/Markdown_Editor_Desktop.md](./Hard/Markdown_Editor_Desktop.md) | Desktop Markdown editor built with Tauri 2, featuring native file system access. | 🔴 Hard |
 | [Advanced/LLM_Speedometer.md](./Advanced/LLM_Speedometer.md) | Local LLM performance benchmarking tool using Tauri and Vue.js with real-time charting. | 🟣 Advanced |
 | [Advanced/Feed_Aggregator.md](./Advanced/Feed_Aggregator.md) | Full-stack Nim RSS aggregator with a background crawler and web interface. | 🟣 Advanced |
+| [Advanced/Hantavirus_Simulation.md](./Advanced/Hantavirus_Simulation.md) | Interactive 2D hantavirus simulation in Rust & Bevy 0.18 with environmental infection model, configurable population, real-time SIR stats, day/night cycle, and save/load support. | 🟣 Advanced |
 
 ## How to Use
 
