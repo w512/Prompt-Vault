@@ -16,6 +16,7 @@ The following table summarizes the coding tasks available in this repository:
 | [Advanced/LLM_Speedometer.md](./Advanced/LLM_Speedometer.md) | Local LLM performance benchmarking tool using Tauri and Vue.js with real-time charting. | 🟣 Advanced |
 | [Advanced/Feed_Aggregator.md](./Advanced/Feed_Aggregator.md) | Full-stack Nim RSS aggregator with a background crawler and web interface. | 🟣 Advanced |
 | [Advanced/Hantavirus_Simulation.md](./Advanced/Hantavirus_Simulation.md) | Interactive 2D hantavirus simulation in Rust & Bevy 0.18 with environmental infection model, configurable population, real-time SIR stats, day/night cycle, and save/load support. | 🟣 Advanced |
+| [Advanced/File_Listing.md](./Advanced/File_Listing.md) | Desktop file-listing tool built with Tauri 2, Vue 3 & Rust — recursive folder scanning, on-demand md5/sha256 hashing, filtering, an editable data grid, and CSV export. | 🟣 Advanced |
 
 ## How to Use
 
