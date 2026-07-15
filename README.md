@@ -13,6 +13,7 @@ The following table summarizes the coding tasks available in this repository:
 | [Medium/Sorting_Visualizer.md](./Medium/Sorting_Visualization.md) | Real-time visualization of 6 sorting algorithms with stats and smooth animations. | 🟡 Medium |
 | [Hard/Kanban_Board.md](./Hard/Kanban_Board.md) | Full-featured Kanban board with native Drag & Drop, filtering, and persistence. | 🔴 Hard |
 | [Hard/Markdown_Editor_Desktop.md](./Hard/Markdown_Editor_Desktop.md) | Desktop Markdown editor built with Tauri 2, featuring native file system access. | 🔴 Hard |
+| [Hard/Local_OCR.md](./Hard/Local_OCR.md) | Privacy-focused Python desktop OCR app for converting images and PDFs to Markdown with local Ollama vision models. | 🔴 Hard |
 | [Advanced/LLM_Speedometer.md](./Advanced/LLM_Speedometer.md) | Local LLM performance benchmarking tool using Tauri and Vue.js with real-time charting. | 🟣 Advanced |
 | [Advanced/Feed_Aggregator.md](./Advanced/Feed_Aggregator.md) | Full-stack Nim RSS aggregator with a background crawler and web interface. | 🟣 Advanced |
 | [Advanced/Hantavirus_Simulation.md](./Advanced/Hantavirus_Simulation.md) | Interactive 2D hantavirus simulation in Rust & Bevy 0.18 with environmental infection model, configurable population, real-time SIR stats, day/night cycle, and save/load support. | 🟣 Advanced |
