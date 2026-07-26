@@ -10,7 +10,9 @@ The following table summarizes the coding tasks available in this repository:
 | :--- | :--- | :--- |
 | [Easy/Bubble_Sort_Visualizer.md](./Easy/Bubble_Sort_Visualizer.md) | Focused Bubble Sort visualizer explaining basic movement and color states. | 🟢 Easy |
 | [Easy/ToDo_List.md](./Easy/ToDo_List.md) | Multi-step tutorial for building a persistent task manager from scratch. | 🟢 Easy |
+| [Color Palette Generator](./Easy/Color_Palette_Generator.md) | Random 5-color palette generator. | 🟢 Easy |
 | [Medium/Sorting_Visualizer.md](./Medium/Sorting_Visualization.md) | Real-time visualization of 6 sorting algorithms with stats and smooth animations. | 🟡 Medium |
+| [Pixel Art Editor](./Medium/Pixel_Art_Editor.md) | Canvas pixel-art editor with pencil/fill/eyedropper tools. | 🟡 Medium |
 | [Hard/Kanban_Board.md](./Hard/Kanban_Board.md) | Full-featured Kanban board with native Drag & Drop, filtering, and persistence. | 🔴 Hard |
 | [Hard/Markdown_Editor_Desktop.md](./Hard/Markdown_Editor_Desktop.md) | Desktop Markdown editor built with Tauri 2, featuring native file system access. | 🔴 Hard |
 | [Hard/Local_OCR.md](./Hard/Local_OCR.md) | Privacy-focused Python desktop OCR app for converting images and PDFs to Markdown with local Ollama vision models. | 🔴 Hard |
