@@ -23,6 +23,7 @@ The following table summarizes the coding tasks available in this repository:
 | [Hantavirus_Simulation.md](./Advanced/Hantavirus_Simulation.md) | Interactive 2D hantavirus simulation in Rust & Bevy 0.18 with environmental infection model, configurable population, real-time SIR stats, day/night cycle, and save/load support. | 🟣 Advanced |
 | [File_Listing.md](./Advanced/File_Listing.md) | Desktop file-listing tool built with Tauri 2, Vue 3 & Rust — recursive folder scanning, on-demand md5/sha256 hashing, filtering, an editable data grid, and CSV export. | 🟣 Advanced |
 | [ASCII_Anamorphosis.md](./Advanced/ASCII_Anamorphosis.md) | Perspective-anamorphic ASCII art: a chaotic jumble of letters head-on that forms a protruding 3D pyramid when printed on A4 and viewed at a 30° angle. | 🟣 Advanced |
+| [2D_Genetic_Algorithm.md](./Advanced/2D_Genetic_Algorithm.md) | Single-file 2D genetic algorithm on Canvas: walking creatures made of sine-driven muscles evolve over generations, with a neon style, a camera that follows the leader, a HUD with a progress chart, and time acceleration. | 🟣 Advanced |
 
 ## How to Use
 
