@@ -22,6 +22,7 @@ The following table summarizes the coding tasks available in this repository:
 | [Feed_Aggregator.md](./Advanced/Feed_Aggregator.md) | Full-stack Nim RSS aggregator with a background crawler and web interface. | 🟣 Advanced |
 | [Hantavirus_Simulation.md](./Advanced/Hantavirus_Simulation.md) | Interactive 2D hantavirus simulation in Rust & Bevy 0.18 with environmental infection model, configurable population, real-time SIR stats, day/night cycle, and save/load support. | 🟣 Advanced |
 | [File_Listing.md](./Advanced/File_Listing.md) | Desktop file-listing tool built with Tauri 2, Vue 3 & Rust — recursive folder scanning, on-demand md5/sha256 hashing, filtering, an editable data grid, and CSV export. | 🟣 Advanced |
+| [ASCII_Anamorphosis.md](./Advanced/ASCII_Anamorphosis.md) | Perspective-anamorphic ASCII art: a chaotic jumble of letters head-on that forms a protruding 3D pyramid when printed on A4 and viewed at a 30° angle. | 🟣 Advanced |
 
 ## How to Use
 
