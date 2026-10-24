@@ -24,6 +24,7 @@ The following table summarizes the coding tasks available in this repository:
 | [File_Listing.md](./Advanced/File_Listing.md) | Desktop file-listing tool built with Tauri 2, Vue 3 & Rust — recursive folder scanning, on-demand md5/sha256 hashing, filtering, an editable data grid, and CSV export. | 🟣 Advanced |
 | [ASCII_Anamorphosis.md](./Advanced/ASCII_Anamorphosis.md) | Perspective-anamorphic ASCII art: a chaotic jumble of letters head-on that forms a protruding 3D pyramid when printed on A4 and viewed at a 30° angle. | 🟣 Advanced |
 | [2D_Genetic_Algorithm.md](./Advanced/2D_Genetic_Algorithm.md) | Single-file 2D genetic algorithm on Canvas: walking creatures made of sine-driven muscles evolve over generations, with a neon style, a camera that follows the leader, a HUD with a progress chart, and time acceleration. | 🟣 Advanced |
+| [3D_Arcade_Racing.md](./Advanced/3D_Arcade_Racing.md) | Autonomous agent challenge: turn a Vite + TypeScript + Three.js starter into a polished 3D arcade racer with a chase camera, obstacles, ordered checkpoints, 3 laps, a timer, a HUD, and restart. Requires a separate Vite + TypeScript + Three.js starter project (not included in this repository). | 🟣 Advanced |
 
 ## How to Use
 
